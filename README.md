@@ -1,4 +1,4 @@
-# veh-ultra-realistic-damage
+# fivem-vehicle-ultra-realistic-damage
 
 ## Description
 
